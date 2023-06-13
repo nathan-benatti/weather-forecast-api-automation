@@ -25,7 +25,7 @@ public class Tests {
         weatherPayload = new WeatherForecast();
         weatherPayload.setSummary(faker.toString());
         weatherPayload.setTemperatureC(random.nextInt((45 - -20) + 1) -20);
-        weatherPayload.setDate(new Date());
+//        weatherPayload.setDate(new Date());
     }
     @Test(priority = 1)
     public void testPostWeather(){
@@ -50,7 +50,7 @@ public class Tests {
     @Test(priority = 3)
     public void testUpdateWeather()
     {
-        Response response = EndPoints.updateWeather(weatherPayload.getSummary(),weatherPayload.getTemperatureC(),weatherPayload.getDate(),"string");
+        Response response = EndPoints.updateWeather(weatherPayload.getSummary(),weatherPayload.getTemperatureC(),new Date(),"string");
         response.then().log().all();
         Assert.assertEquals(response.getStatusCode(),200);
     }

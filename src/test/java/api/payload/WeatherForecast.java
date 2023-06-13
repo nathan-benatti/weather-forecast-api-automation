@@ -5,18 +5,18 @@ import java.util.Date;
 
 public class WeatherForecast {
 
-    Date date;
+//    Date date;
     String dateF;
     int temperatureC;
     String summary;
 
-    public Date getDate() {
-        return date;
-    }
-
-    public void setDate(Date date) {
-        this.date = date;
-    }
+//    public Date getDate() {
+//        return date;
+//    }
+//
+//    public void setDate(Date date) {
+//        this.date = date;
+//    }
     public String getDateF() {
         return dateF;
     }

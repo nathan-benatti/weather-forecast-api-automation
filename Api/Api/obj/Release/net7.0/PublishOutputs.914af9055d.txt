@@ -1,0 +1,12 @@
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Api.exe
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\appsettings.Development.json
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\appsettings.json
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Api.dll
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Api.deps.json
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Api.runtimeconfig.json
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Api.pdb
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Microsoft.OpenApi.dll
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas Theodoro\source\repos\Projetao Compilado\Swashbuckle.AspNetCore.SwaggerUI.dll
